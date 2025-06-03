@@ -32,7 +32,7 @@ Redux slices for:
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/nazariiskibytskyi/RetroTop.git
+git clone https://github.com/nazariiskibytskyi/retro-top.git
 npm install
 
 # Start development server
