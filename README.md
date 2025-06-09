@@ -81,5 +81,5 @@ src/
 ├── redux/          # State management
 ├── services/       # API services
 ├── route/          # Route configurations
-└── App.js          # Main component
+└── App.js          # Main component 
 ```
